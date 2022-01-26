@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Restaurant ": "Delmar",
+        "Review": "5 Star"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.21629333496094,
+          38.63725461835644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Restaurant ": "Enright",
+        "Review": "4 Star"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.25474548339844,
+          38.65227081329621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Restaurant ": "Park Chop Suey",
+        "Review": "3 Star"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.20462036132812,
+          38.618479949960594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Restaurant ": "Fellowship",
+        "Review": "2 Star"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.24925231933594,
+          38.61955292058387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Restaurant ": "Bancroft",
+        "Review": "1 Star"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.27877807617188,
+          38.59004038021371
+        ]
+      }
+    }
+  ]
+}
